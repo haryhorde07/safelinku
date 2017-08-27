@@ -1,0 +1,2 @@
+# safelinku
+file.js
